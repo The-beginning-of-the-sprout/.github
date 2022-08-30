@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="sprout.svg" width="1200" alt="sprout-fithou" />
+  <img src="./profile/sprout.svg" width="1200" alt="sprout-fithou" />
 </a>
 
 
