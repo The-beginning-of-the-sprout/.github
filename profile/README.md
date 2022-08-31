@@ -8,7 +8,7 @@
 
 - 🌱 Learn and develop new technologies together.
 
-- 🔥 There are 5 members with the lead of NC_Minh
+- 🔥 There are 5 members
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
